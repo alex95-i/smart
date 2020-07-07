@@ -383,7 +383,7 @@ textarea {
 }
 @media (max-width: 768px) {
   .square_item img {
-    width: 30%;
+    width: 25%;
   }
 }
 .know {
