@@ -9,8 +9,8 @@ $('#customNextBtn').click(function() {
     slider.trigger('next.owl.carousel');
     $('#customNextBtn').css({'background-color':'#ff6e47'});
     $('#customPrevBtn').css({'background-color':'#ffffff'});
-    $('#next_img').attr('src', '../img/images/next_w.png')
-    $('#prev_img').attr('src', '../img/images/prev_b.png')
+    $('#next_img').attr('src', 'img/images/next_w.png')
+    $('#prev_img').attr('src', 'img/images/prev_b.png')
 })
 
 $('#customPrevBtn').click(function() {
@@ -18,8 +18,8 @@ $('#customPrevBtn').click(function() {
     slider.trigger('prev.owl.carousel');
     $('#customNextBtn').css({'background-color':'#ffffff'});
     $('#customPrevBtn').css({'background-color':'#ff6e47'});
-	$('#next_img').attr('src', '../img/images/next_b.png')
-	$('#prev_img').attr('src', '../img/images/prev_w.png')
+	$('#next_img').attr('src', 'img/images/next_b.png')
+	$('#prev_img').attr('src', 'img/images/prev_w.png')
 
 })
 
