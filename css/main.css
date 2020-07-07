@@ -353,7 +353,8 @@ textarea {
 }
 @media (max-width: 767px) {
   .square_item p {
-    font-size: 0.5em;
+    font-size: 0.1em;
+    
   }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
