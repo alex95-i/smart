@@ -359,11 +359,11 @@ textarea {
 }
 @media (min-width: 768px) and (max-width: 1023px) {
   .square_item p {
-    font-size: 0.8em;
+    font-size: 0.1em;
   }
 }
 .square_item p:last-child {
-  font-size: 0.8em;
+  font-size: 0.1em;
   font-weight: 300;
   opacity: 0.75 ;
 }
@@ -374,7 +374,7 @@ textarea {
 }
 @media (min-width: 768px) and (max-width: 1023px) {
   .square_item p:last-child {
-    font-size: 0.5em;
+    font-size: 0.1em;
   }
 }
 @media (max-width: 768px) {
