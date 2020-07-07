@@ -360,21 +360,25 @@ textarea {
 @media (min-width: 768px) and (max-width: 1023px) {
   .square_item p {
     font-size: 0.1em;
+    margin: 0 auto;
   }
 }
 .square_item p:last-child {
   font-size: 0.1em;
   font-weight: 300;
   opacity: 0.75 ;
+  margin: 0 auto;
 }
 @media (max-width: 767px) {
   .square_item p:last-child {
     font-size: 0.1em;
+    margin: 0 auto;
   }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
   .square_item p:last-child {
     font-size: 0.1em;
+    margin: 0 auto;
   }
 }
 @media (max-width: 768px) {
