@@ -748,7 +748,7 @@ textarea {
 }
 @media (max-width: 320px) {
   .ux_pink {
-    -webkit-transform: translateY(-100%);
+    -webkit-transform: translateY(-70%);
     -ms-transform: translateY(-100%);
     transform: translateY(-100%);
   }
