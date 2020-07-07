@@ -354,7 +354,7 @@ textarea {
 @media (max-width: 767px) {
   .square_item p {
     font-size: 0.1em;
-    
+    margin: 0 auto;
   }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
